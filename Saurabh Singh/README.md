@@ -1,3 +1,12 @@
-# Day 0
-
-This is Saurabh's folder. Day 0 — starting the grind, one day at a time.
+# Saurabh-lC
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
