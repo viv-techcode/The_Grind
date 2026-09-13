@@ -1,0 +1,23 @@
+class Solution {
+    public boolean uniqueOccurrences(int[] arr) {
+        Arrays.sort(arr);
+        boolean[] freq = new boolean[arr.length + 1];
+        int i = 0;
+        while(i < arr.length){
+            int count = 0;
+            int res = arr[i];
+            while(i < arr.length && arr[i] == res){
+                count++;
+                i++;
+            }
+
+            if(freq[count]){
+                return false;
+            }
+            else{
+                freq[count] = true;
+            }
+        }
+        return true;
+    }
+}
