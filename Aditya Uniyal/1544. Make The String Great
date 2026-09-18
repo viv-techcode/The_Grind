@@ -1,0 +1,22 @@
+class Solution {
+    public String makeGood(String s) {
+        char[] arr = s.toCharArray();
+        StringBuilder ans = new StringBuilder();
+        for(int i = 0 ; i < arr.length ; i++){
+            ans.append(arr[i]);
+        }
+
+        for(int i = 0 ; i < ans.length() - 1 ; i++){
+            char curr = ans.charAt(i);
+            char next = ans.charAt(i + 1);
+
+            if(Character.toLowerCase(curr) == Character.toLowerCase(next) &&  Character.isLowerCase(curr) && Character.isUpperCase(next) 
+                      || Character.toLowerCase(curr) == Character.toLowerCase(next)  && Character.isUpperCase(curr) && Character.isLowerCase(next)){
+                        
+                          ans.delete(i,i+2);
+                           i=-1;
+            }
+        }
+        return ans.toString();
+    }
+}
