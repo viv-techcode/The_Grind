@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0162-find-peak-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0485-max-consecutive-ones) |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1108-defanging-an-ip-address) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
