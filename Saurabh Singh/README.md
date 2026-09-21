@@ -27,7 +27,6 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0268-missing-number) |
-| [0367-valid-perfect-square](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
@@ -57,7 +56,6 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0268-missing-number) |
-| [0367-valid-perfect-square](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
