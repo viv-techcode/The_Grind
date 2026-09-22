@@ -44,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1108-defanging-an-ip-address) |
 ## Divide and Conquer
 |  |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
