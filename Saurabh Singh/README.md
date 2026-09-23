@@ -14,6 +14,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Matrix
+|  |
+| ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
