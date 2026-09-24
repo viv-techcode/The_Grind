@@ -13,6 +13,7 @@
 | [0485-max-consecutive-ones](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0485-max-consecutive-ones) |
 | [1207-unique-number-of-occurrences](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1572-matrix-diagonal-sum](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
@@ -72,5 +73,6 @@
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
