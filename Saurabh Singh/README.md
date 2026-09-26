@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1572-matrix-diagonal-sum) |
@@ -24,6 +25,7 @@
 | [0169-majority-element](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -38,6 +40,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -71,6 +74,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
 | ------- |
