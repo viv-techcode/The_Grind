@@ -1,36 +1,43 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int arr[] = new int[2];
-    Arrays.sort(nums);
+        int newarr[] = new int[2];
+        Arrays.sort(nums);
 
-        int newarr[] = new int[nums.length-1];
+        int arr[] = new int[nums.length - 1];
         int k = 0;
-        for(int i = 0; i<nums.length-1;i++){
-            if(nums[i] == nums[i+1]){
-                arr[0] = nums[i];
-               
+
+        for(int i = 0; i < nums.length - 1; i++) {
+
+            if(nums[i] == nums[i + 1]) {
+                newarr[0] = nums[i];
             }
             else{
-                newarr[k] = nums[i];
+                arr[k] = nums[i];
                 k++;
             }
-            
+
         }
 
-          for(int i = 0;i<newarr.length;i++){
-            
+        arr[k] = nums[nums.length - 1];
 
-            if(newarr[0]!=1){
-                arr[1] = 1;
+        for(int i = 0; i < arr.length; i++) {
+
+            if(arr[0] != 1){
+                newarr[1] = 1;
                 break;
             }
 
-            if(newarr[i]!=i+1){
-                arr[1]=i+1;
+            if(i + 1 != arr[i]){
+                newarr[1] = i + 1;
                 break;
             }
+
         }
-      
-        return arr;
+
+        if(newarr[1] == 0){
+            newarr[1] = nums.length;
+        }
+
+        return newarr;
     }
 }
