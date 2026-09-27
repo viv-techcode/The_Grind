@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1108-defanging-an-ip-address) |
 ## Divide and Conquer
@@ -78,6 +79,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Matrix
 |  |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mrr-Sandy/Saurabh-lC/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
